@@ -1,7 +1,7 @@
 # 觅影词频统计工具
 一款针对大量文本数据进行词频统计的工具
 
-📅 编写日期：2025年2月24日
+📅 编写日期：2025年2月24日  
 👨‍💻 作者GitHub：@caspiankexin  
 📨 作者邮箱： [联系我](mailto:mirror_flower@outlook.com)   
 📢 项目地址：[觅影词频统计工具](https://github.com/caspiankexin/MiYing)   
