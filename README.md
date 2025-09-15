@@ -3,8 +3,8 @@
 📅 编写日期：2025年2月24日
 👨‍💻 作者GitHub：@caspiankexin  
 📨 作者邮箱： [联系我](mailto:mirror_flower@outlook.com)  
-📢 项目地址：[觅影词频统计工具](https://github.com/caspiankexin/MiYing) 
-⏬ 下载地址：[资源下载导航页](https://flowus.cn/cckeker/share/85efac3f-a20d-4f36-b68a-410decf4f6da)
+📢 项目地址：[觅影词频统计工具](https://github.com/caspiankexin/MiYing)   
+⏬ 下载地址：[资源下载导航页](https://flowus.cn/cckeker/share/85efac3f-a20d-4f36-b68a-410decf4f6da)  
 ✳️ 转载至：原创
 
 ---
