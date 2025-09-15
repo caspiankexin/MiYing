@@ -1,5 +1,7 @@
 # 觅影词频统计工具
 
+> == GitHub版本说明：可执行文件可在release下载；直接使用代码需将赞赏码下载至代码的同文件夹。 ==
+
 📅 编写日期：2025年2月24日  
 👨‍💻 作者GitHub：@caspiankexin  
 📨 作者邮箱： [联系我](mailto:mirror_flower@outlook.com)  
